@@ -6,3 +6,4 @@ platformio : plateforme pour la programmation des circuits programmables
 vscode : éditeur de texte qui communique avec les autres outils (compilateurs, ...) avex des extensions
 
 jira: grstionnaire de projet
+backlog: liste de max des taches a realiser 

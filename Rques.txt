@@ -8,3 +8,4 @@ vscode : éditeur de texte qui communique avec les autres outils (compilateurs, 
 jira: grstionnaire de projet
 backlog: liste de max des taches a realiser 
 sprint: liste des taches programmés pour la prochaine periode 
+chaque tache est estimé par une estimation: story points (unité de mesure)

@@ -1,3 +1,4 @@
 git : gestionnaire de version
 github : cloud où enregistrer le projet afin de le récupérer
 jira : gestionnaire de projet
+latex : éditeur de texte scientifique

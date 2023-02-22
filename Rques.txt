@@ -9,3 +9,5 @@ jira: grstionnaire de projet
 backlog: liste de max des taches a realiser 
 sprint: liste des taches programmés pour la prochaine periode 
 chaque tache est estimé par une estimation: story points (unité de mesure)
+
+git config --global user.email "khouloudsamili@gmail.com"

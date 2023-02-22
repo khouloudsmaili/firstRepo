@@ -1,0 +1,4 @@
+git status: etat du dossier 
+git log: historique des commits
+L' enregistrement se fait en 2 étapes: git add (nom fichier) 
+                                       git commit -m"msg"
